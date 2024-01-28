@@ -1,0 +1,49 @@
+>>> for x in range(11):
+...     y = x * x
+...     print(y)  
+... 
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+
+
+
+Celcius:  0 Farenheit  32.0
+Celcius:  1 Farenheit  33.8
+Celcius:  2 Farenheit  35.6
+Celcius:  3 Farenheit  37.4
+Celcius:  4 Farenheit  39.2
+Celcius:  5 Farenheit  41.0
+Celcius:  6 Farenheit  42.8
+Celcius:  7 Farenheit  44.6
+Celcius:  8 Farenheit  46.4
+Celcius:  9 Farenheit  48.2
+Celcius:  10 Farenheit  50.0
+Celcius:  11 Farenheit  51.8
+Celcius:  12 Farenheit  53.6
+Celcius:  13 Farenheit  55.400000000000006
+Celcius:  14 Farenheit  57.2
+Celcius:  15 Farenheit  59.0
+Celcius:  16 Farenheit  60.8
+Celcius:  17 Farenheit  62.6
+Celcius:  18 Farenheit  64.4
+Celcius:  19 Farenheit  66.2
+Celcius:  20 Farenheit  68.0
+Celcius:  21 Farenheit  69.80000000000001
+Celcius:  22 Farenheit  71.6
+Celcius:  23 Farenheit  73.4
+Celcius:  24 Farenheit  75.2
+Celcius:  25 Farenheit  77.0
+Celcius:  26 Farenheit  78.80000000000001
+Celcius:  27 Farenheit  80.6
+Celcius:  28 Farenheit  82.4
+Celcius:  29 Farenheit  84.2
+Celcius:  30 Farenheit  86.0
